@@ -1,0 +1,36 @@
+- 👋 Hi, I’m @akashsbnr
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+akashsbnr/akashsbnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>HTML</title>
+  
+  <!-- HTML -->
+  
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <p>Nothing to see here...</p>
+  <!-- Project -->
+  <script src="main.js"></script>
+</body>
+</html>
+<h1><strong>Akashsbnr.in</strong></h1>
+<hr> 
+<p class="quote">i am akash.i am from sri vijay nagar, Rajasthan.i am a html student.just was working on a machine language html.this was used to make website.this was a coding language.</p>
+<img src="/my.png"> <<source media="(min-width:10% )" sizes="min-length:10%" srcset="">
